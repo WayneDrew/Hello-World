@@ -1,2 +1,5 @@
 # Hello-World
-just another repository
+
+Hello humans!
+
+i love coffee, starwars, and hotsuace. in that order!
